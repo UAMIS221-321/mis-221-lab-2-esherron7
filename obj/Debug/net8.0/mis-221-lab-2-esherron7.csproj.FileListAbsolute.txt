@@ -1,0 +1,15 @@
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\obj\Debug\net8.0\mis-221-lab-2-esherron7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\obj\Debug\net8.0\mis-221-lab-2-esherron7.AssemblyInfoInputs.cache
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\obj\Debug\net8.0\mis-221-lab-2-esherron7.AssemblyInfo.cs
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\obj\Debug\net8.0\mis-221-lab-2-esherron7.csproj.CoreCompileInputs.cache
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\obj\Debug\net8.0\mis-221-lab-2-esherron7.sourcelink.json
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\bin\Debug\net8.0\mis-221-lab-2-esherron7.exe
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\bin\Debug\net8.0\mis-221-lab-2-esherron7.deps.json
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\bin\Debug\net8.0\mis-221-lab-2-esherron7.runtimeconfig.json
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\bin\Debug\net8.0\mis-221-lab-2-esherron7.dll
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\bin\Debug\net8.0\mis-221-lab-2-esherron7.pdb
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\obj\Debug\net8.0\mis-221-lab-2-esherron7.dll
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\obj\Debug\net8.0\refint\mis-221-lab-2-esherron7.dll
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\obj\Debug\net8.0\mis-221-lab-2-esherron7.pdb
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\obj\Debug\net8.0\mis-221-lab-2-esherron7.genruntimeconfig.cache
+C:\Users\eoinh\OneDrive\Documents\MIS\Fall2024Repos\LAB\mis-221-lab-2-esherron7\obj\Debug\net8.0\ref\mis-221-lab-2-esherron7.dll
